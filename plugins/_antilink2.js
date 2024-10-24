@@ -1,4 +1,4 @@
-// 𝐊𝐈𝐋𝐋𝐙𝐍@BrunoSobrino - _antilink2.js
+// Elmo@BrunoSobrino - _antilink2.js
 
  // Para configurar o idioma, na raiz do projeto altere o arquivo config.json
   // Para configurar el idioma, en la raíz del proyecto, modifique el archivo config.json.

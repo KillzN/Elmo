@@ -22,7 +22,7 @@ SOFTWARE.
 
 Créditos:
 - Código original: https://github.com/ruhend2001/ruhend-ytmp4
-- Editado por: https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
+- Editado por: https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT
 */
 
 import axios from 'axios';

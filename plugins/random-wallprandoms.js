@@ -43,7 +43,7 @@ const handler = async (m, {command, conn}) => {
   }
 
   if (command == 'wprandom') {
-    const res = (await axios.get(`https://raw.githubusercontent.com/KillzN/Perfect1/master/src/JSON/wprandom.json`)).data;
+    const res = (await axios.get(`https://raw.githubusercontent.com/KillzN/Elmo/master/src/JSON/wprandom.json`)).data;
     const res2 = await res[Math.floor(res.length * Math.random())];
     conn.sendMessage(m.chat, {image: {url: res2}, caption: `_${command}_`.trim()}, {quoted: m});
   }

@@ -1,5 +1,5 @@
 {
-  "name": "𝐊𝐈𝐋𝐋𝐙𝐍",
+  "name": "Elmo",
   "version": "1.0.0",
   "description": "Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.",
   "main": "index.js",
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
+  "homepage": "https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT",
   "author": {
-    "name": "𝐊𝐈𝐋𝐋𝐙𝐍"
+    "name": "Elmo"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC.git"
+    "url": "git+https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT.git"
   },
   "bugs": {
-    "url": "https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC/issues"
+    "url": "https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {

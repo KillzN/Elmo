@@ -28,12 +28,12 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = 'The 𝐊𝐈𝐋𝐋𝐙𝐍 Bot';
+  const wm = 'The Elmo Bot';
   const info = ` ${tradutor.texto1[0]}
 
   ${tradutor.texto1[1]} 
-  ${tradutor.texto1[2]} +56983073328
-  ${tradutor.texto1[3]} https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
+  ${tradutor.texto1[2]} +56993761200
+  ${tradutor.texto1[3]} https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT
 
   ${tradutor.texto1[4]} ${rtime}
   ${tradutor.texto1[5]} ${uptime}
@@ -63,7 +63,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC` },
+    document: { url: `https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT` },
     mimetype: `application/${document}`,
     fileName: `Documento`,
     fileLength: 99999999999999,
@@ -72,13 +72,13 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
+        mediaUrl: "https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT",
         mediaType: 2,
         previewType: "pdf",
-        title: "𝐊𝐈𝐋𝐋𝐙𝐍",
+        title: "Elmo",
         body: tradutor.texto2,
         thumbnail: imagen1,
-        sourceUrl: "https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
+        sourceUrl: "https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT",
       },
     },
     caption: info,

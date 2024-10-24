@@ -75,7 +75,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     conn.reply(m.chat, tradutor.texto1[3], m);
   }
 };
-handler.command = /^(menuff|menuff|𝐊𝐈𝐋𝐋𝐙𝐍vs)$/i;
+handler.command = /^(menuff|menuff|Elmovs)$/i;
 handler.exp = 50;
 handler.fail = null;
 export default handler;

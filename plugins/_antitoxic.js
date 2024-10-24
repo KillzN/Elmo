@@ -1,4 +1,4 @@
-// 𝐊𝐈𝐋𝐋𝐙𝐍@BrunoSobrino - _antitoxic.js
+// Elmo@BrunoSobrino - _antitoxic.js
 
  // Para configurar o idioma, na raiz do projeto altere o arquivo config.json
   // Para configurar el idioma, en la raíz del proyecto, modifique el archivo config.json.

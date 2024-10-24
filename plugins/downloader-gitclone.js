@@ -7,7 +7,7 @@ const handler = async (m, {args, usedPrefix, command}) => {
   const _translate = JSON.parse(fs.readFileSync(`./src/languages/${idioma}.json`))
   const tradutor = _translate.plugins.descargas_gitclone
 
-  if (!args[0]) throw `${tradutor.texto1} _${usedPrefix + command} https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC_`;
+  if (!args[0]) throw `${tradutor.texto1} _${usedPrefix + command} https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT_`;
   if (!regex.test(args[0])) throw tradutor.texto2;
   let [_, user, repo] = args[0].match(regex) || [];
   repo = repo.replace(/.git$/, '');

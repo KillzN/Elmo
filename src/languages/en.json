@@ -1,7 +1,7 @@
 {
     "___creditos": {
         "___Contribuidor": "https://github.com/jeffersonalionco",
-        "___Criador": "https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC"
+        "___Criador": "https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT"
     },
     "plugins": {
         "antiarab": {
@@ -799,7 +799,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "[❗] Enter a YouTube link.",
-            "texto2": "🤴🏻 Download by 𝐊𝐈𝐋𝐋𝐙𝐍 & 𝐊𝐈𝐋𝐋𝐙𝐍 🤖"
+            "texto2": "🤴🏻 Download by Elmo & Elmo 🤖"
         },
         "downloader_ytv_2": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] Enter the command followed by the YouTube video link*",
@@ -856,8 +856,8 @@
         "fix_owner_esperando_mensajes": {
             "texto1": "[❗] Use this command directly in the main Bot number.",
             "texto2": "[❗] Starting the process of deleting all session files, except for creds.json...",
-            "texto3": "[❗] The 𝐊𝐈𝐋𝐋𝐙𝐍Session folder does not exist or is empty.",
-            "texto4": "[❗] No files to delete were found in the 𝐊𝐈𝐋𝐋𝐙𝐍Session folder.",
+            "texto3": "[❗] The ElmoSession folder does not exist or is empty.",
+            "texto4": "[❗] No files to delete were found in the ElmoSession folder.",
             "texto5": [
                 "[❗]",
                 "session files were deleted, except for creds.json."
@@ -2189,7 +2189,7 @@
                 "*[❗ INFORMATION ❗] IT WAS NOT POSSIBLE TO ADD THE",
                 "ACCOUNT BECAUSE THERE WAS A PROBLEM THIS IS KNOWN, THE PERSON HAS LEFT THE GROUP OR THE PERSON HAS CANCELED THEIR GROUP PRIVACY IN THEIR GROUP PRIVACY, THE GROUP PRIVACY INVITATION WAS SENT IN THEIR GROUP PRIVACY OR THE PERSON CONFIRMED THEIR GROUP PRIVACY, THE ADMINISTRATORS WILL SEND THE GROUP INVITATION IN THEIR GROUP PRIVACY, I INVITE YOU TO THE GROUP INVITATION IN THEIR GROUP PRIVACY, THE ADMINISTRATORS WILL SEND THE GROUP INVITATION TO THEIR GROUP PRIVACY, THE ADMINISTRATORS WILL MAKE SURE THAT THE GROUP INVITATION IS SENT TO THEIR GROUP PRIVACY, THE ADMINISTRATORS WILL GUARANTEE THAT THE GROUP INVITATION IS SENT TO THEIR GROUP PRIVACY!!*"
             ],
-            "texto4": "Hi!! Hello, let me introduce myself, I am 𝐊𝐈𝐋𝐋𝐙𝐍 and I am a Bot for WhatsApp. Someone from the group used the command to add you to the group, but I couldn't add you, so I'm sending you the invitation so you can join us. We are waiting for you!!",
+            "texto4": "Hi!! Hello, let me introduce myself, I am Elmo and I am a Bot for WhatsApp. Someone from the group used the command to add you to the group, but I couldn't add you, so I'm sending you the invitation so you can join us. We are waiting for you!!",
             "texto5": "*[❗ INFORMATION ❗] IT WAS NOT POSSIBLE TO ADD YOUR NUMBER BECAUSE THERE WAS A PROBLEM. KNOW THAT THE PERSON LEFT THE GROUP OR THE PERSON CANCELED THEIR GROUP PRIVACY IN THEIR GROUP PRIVACY SETTING. THE INVITATION WAS SENT TO THE GROUP IN THEIR GROUP PRIVACY SETTING OR THE PERSON CONFIRMED THEIR GROUP PRIVACY. THE ADMINISTRATORS WILL SEND THE GROUP INVITATION IN THEIR GROUP PRIVACY SETTING. I INVITE YOU TO THE GROUP INVITATION IN THEIR GROUP PRIVACY SETTING. THE ADMINISTRATORS WILL SEND THE GROUP INVITATION TO YOUR GROUP PRIVACY SETTING. THE ADMINISTRATORS WILL MAKE SURE THAT THE GROUP INVITATION IS SENT TO YOUR GROUP PRIVACY SETTING. THE ADMINISTRATORS WILL ENSURE THAT THE GROUP INVITATION IS SENT TO YOUR GROUP PRIVACY SETTING!!*"
         },
         "gc_admins": {
@@ -2411,15 +2411,15 @@
             "texto1": [
                 "*[❗] You are in a conversation or order to use the chatbot function*\n\n*—◉ Examples of Petitions and Orders*\n*◉ Reflection on the Netflix series Merlin 2022*\n*◉ JS code for a card game*"
             ],
-            "texto2": "You will act as a WhatsApp Bot created by 𝐊𝐈𝐋𝐋𝐙𝐍, you will be 𝐊𝐈𝐋𝐋𝐙𝐍.",
-            "texto3": "You will act as a WhatsApp Bot created by 𝐊𝐈𝐋𝐋𝐙𝐍, you will be 𝐊𝐈𝐋𝐋𝐙𝐍.",
+            "texto2": "You will act as a WhatsApp Bot created by Elmo, you will be Elmo.",
+            "texto3": "You will act as a WhatsApp Bot created by Elmo, you will be Elmo.",
             "texto4": "*[❗] Error, please try again*"
         },
         "herramientas_chatgptvoz": {
             "texto1": [
                 "*[❗] You are in a conversation or order to use the chatbot function*\n\n*—◉ Examples of Petitions and Orders*\n*◉ Reflection on the Netflix series Merlin 2022*\n*◉ JS code for a card game*"
             ],
-            "texto2": "You will act as a WhatsApp Bot created by 𝐊𝐈𝐋𝐋𝐙𝐍, you will be 𝐊𝐈𝐋𝐋𝐙𝐍.",
+            "texto2": "You will act as a WhatsApp Bot created by Elmo, you will be Elmo.",
             "texto3": "*[❗] Error, please try again*"
         },
         "herramientas_clima": {
@@ -2620,20 +2620,20 @@
         },
         "info_creador": {
             "texto1": [
-                "—◉ My creator's number is wa.me/56983073328",
-                "—◉ Collaborator 1's number is wa.me/56983073328",
-                "—◉ Collaborator 2's number is wa.me/56983073328",
-                "—◉ Collaborator 3's number is wa.me/56983073328",
-                "—◉ Collaborator 4's number is wa.me/56983073328",
-                "—◉ Collaborator 5's number is wa.me/56983073328",
-                "—◉ Collaborator 6's number is wa.me/56983073328",
-                "—◉ Collaborator 7's number is wa.me/56983073328",
-                "—◉ Collaborator 8's number is wa.me/56983073328",
-                "—◉ Collaborator 9's number is wa.me/56983073328",
-                "—◉ Collaborator 10's number is wa.me/556983073328",
-                "—◉ Collaborator 11's contact is https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
-                "—◉ Collaborator 12's number is wa.me/56983073328",
-                "—◉ Collaborator 13 in Brazil's number is wa.me/56983073328"
+                "—◉ My creator's number is wa.me/56993761200",
+                "—◉ Collaborator 1's number is wa.me/56993761200",
+                "—◉ Collaborator 2's number is wa.me/56993761200",
+                "—◉ Collaborator 3's number is wa.me/56993761200",
+                "—◉ Collaborator 4's number is wa.me/56993761200",
+                "—◉ Collaborator 5's number is wa.me/56993761200",
+                "—◉ Collaborator 6's number is wa.me/56993761200",
+                "—◉ Collaborator 7's number is wa.me/56993761200",
+                "—◉ Collaborator 8's number is wa.me/56993761200",
+                "—◉ Collaborator 9's number is wa.me/56993761200",
+                "—◉ Collaborator 10's number is wa.me/556993761200",
+                "—◉ Collaborator 11's contact is https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT",
+                "—◉ Collaborator 12's number is wa.me/56993761200",
+                "—◉ Collaborator 13 in Brazil's number is wa.me/56993761200"
             ],
             "texto2": [
                 "「 Hello World 」",
@@ -2646,19 +2646,19 @@
                 "HI",
                 "👉🏻 TO SUPPORT DATA",
                 "IF YOU WANT TO DONATE :3",
-                "➤ BENEFICIARY: 𝐊𝐈𝐋𝐋𝐙𝐍",
+                "➤ BENEFICIARY: Elmo",
                 "➤ CONCEPT: SUPPORT",
                 "➤ PAYPAL: https://www.paypal.me/ineffablexmvrco",
                 "👉🏻 CONTACT IF NECESSARY",
                 "MORE DATA AND TO THANK",
-                "wa.me/56983073328"
+                "wa.me/56993761200"
             ]
         },
         "info_estado": {
             "texto1": [
                 "*< INFORMATION - STATE />*_",
-                "▢ *Owner:* 𝐊𝐈𝐋𝐋𝐙𝐍",
-                "▢ *WA:* +56983073328",
+                "▢ *Owner:* Elmo",
+                "▢ *WA:* +56993761200",
                 "▢ *PayPal:* paypal.me/ineffablexmvrco",
                 "▢ *Ping:*",
                 "▢ *Uptime:*",
@@ -2684,10 +2684,10 @@
             "texto1": [
                 "*𝙷𝙾𝙻𝙰 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 👋🏻, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙼 𝙰𝙻𝙶𝚄𝙽𝚂 𝙶𝚁𝚄𝙿𝙾𝚂 𝙳𝙾 𝚂𝙷𝙰𝙳𝙾𝚆 𝙱𝚁𝙾𝙺𝙴𝚁𝚂 - 𝚃𝙴𝙰𝙼 𝙿𝙰𝚁𝙰 𝙲𝙾𝙽𝚅𝙸𝚅𝙸𝚁 𝙲𝙾𝙼 𝙻𝙰 𝙲𝙾𝙼𝚄𝙽𝙸𝙳𝙰𝙳𝙴 :D*",
                 "*➤ Official Bot Groups:*",
-                "*1.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
-                "*2.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
-                "*3.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
-                "*4.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
+                "*1.-* https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT",
+                "*2.-* https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT",
+                "*3.-* https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT",
+                "*4.-* https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT",
                 "*5.-* https://chat.whatsapp.com/DLrFJUPxEQ2IrOm7sJWJ0k"
             ],
             "texto2": "「 Hello World 」",
@@ -2696,7 +2696,7 @@
         "info_host": {
             "texto1": [
                 "*🚀 -----[ Cafirexos]------- 🚀*",
-                "*Hello everyone 👋🏻 We are excited to announce our new collaboration with Cafirexos 🤖 Now you can have your own 𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧 bot on your online platform, allowing your bots to be active 24/7. 💻*",
+                "*Hello everyone 👋🏻 We are excited to announce our new collaboration with Cafirexos 🤖 Now you can have your own 𝐄𝐋𝐌𝐎 𝐁𝐎𝐓 bot on your online platform, allowing your bots to be active 24/7. 💻*",
                 "_The installation of these versions has been approved and is already fully operational. Additionally, *the servers are fully compatible, allowing you to choose the type of bot startup according to your needs.* Get ready for a seamless and exciting user experience!_",
                 "*Official Page:*",
                 "https://www.cafirexos.com/",
@@ -2705,7 +2705,7 @@
                 "*Panel:*",
                 "https://panel.cafirexos.com",
                 "*WhatsApp*",
-                "https://wa.me/56983073328",
+                "https://wa.me/56993761200",
                 "*Email*",
                 "contacto@cafirexos.com",
                 "*WhatsApp Channel*",
@@ -2716,7 +2716,7 @@
             "texto2": "The Best Hosting 🚀"
         },
         "info_instalarbot": {
-            "texto1": "*—◉ MAIN BOT INSTALLATION*\n> Tutorial: https://youtu.be/eC9TfKICpcY\n> Official Page: https://boxmineworld.com\n> Control Panel: https://dash.boxmineworld.com/home\n> Panel: https://panel.boxmineworld.com\n> Support: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ TERTIARY BOT INSTALLATION\n> Tutorial: https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ INSTALLATION COMMANDS*\n> Commands:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC.git && cd 𝐊𝐈𝐋𝐋𝐙𝐍\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ RE-ACTIVATION IN CASE OF STOP IN TERMUX ✔️\nENTER THE FOLLOWING COMMANDS ONE BY ONE:\n> cd 𝐊𝐈𝐋𝐋𝐙𝐍\n> npm start\n\n------------------------------------\n\n—◉ 👽 GET ANOTHER QR CODE IN TERMUX 👽\nENTER THE FOLLOWING COMMANDS ONE BY ONE:\n> cd 𝐊𝐈𝐋𝐋𝐙𝐍\n> rm -rf 𝐊𝐈𝐋𝐋𝐙𝐍Session\n> npm start",
+            "texto1": "*—◉ MAIN BOT INSTALLATION*\n> Tutorial: https://youtu.be/eC9TfKICpcY\n> Official Page: https://boxmineworld.com\n> Control Panel: https://dash.boxmineworld.com/home\n> Panel: https://panel.boxmineworld.com\n> Support: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ TERTIARY BOT INSTALLATION\n> Tutorial: https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ INSTALLATION COMMANDS*\n> Commands:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT.git && cd Elmo\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ RE-ACTIVATION IN CASE OF STOP IN TERMUX ✔️\nENTER THE FOLLOWING COMMANDS ONE BY ONE:\n> cd Elmo\n> npm start\n\n------------------------------------\n\n—◉ 👽 GET ANOTHER QR CODE IN TERMUX 👽\nENTER THE FOLLOWING COMMANDS ONE BY ONE:\n> cd Elmo\n> rm -rf ElmoSession\n> npm start",
             "texto2": "The Best WhatsApp Bot"
         },
         "info_listprem": {
@@ -2751,12 +2751,12 @@
             "texto1": [
                 "_*< INFORMATION - REPOSITORY />*_",
                 "▢ *Name:*",
-                "𝐊𝐈𝐋𝐋𝐙𝐍",
+                "Elmo",
                 "▢ *Visitors:*",
                 "▢ *Size:*",
                 "▢ *Last update:*",
                 "▢ *URL:*",
-                "https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
+                "https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT",
                 "Forks ·",
                 "Stars ·",
                 "Issues\n\n",
@@ -2791,7 +2791,7 @@
             "texto1": "*YOU'RE HOT 🥵🔥*"
         },
         "maker_logos": {
-            "texto1": "*[❗ℹ️] DO YOU WANT TO MAKE A LOGO?*\n—◉ _#logo (effect) (text)_\n*EXAMPLE:*\n—◉ _#logo 3d-deep-sea-metal 𝐊𝐈𝐋𝐋𝐙𝐍_\n\n*[❗] PLEASE LIST THE TEXT WHERE THE LOGO WILL BE APPLIED:*\n—◉ _#logo (effect) (text1|text2)_\n*EXAMPLE:*\n—◉ _#logo Wolf-Logo-Galaxy 𝐊𝐈𝐋𝐋𝐙𝐍|Bot_\n\n*<LIST OF EFFECTS/>*\n\n° 📝 #logo ",
+            "texto1": "*[❗ℹ️] DO YOU WANT TO MAKE A LOGO?*\n—◉ _#logo (effect) (text)_\n*EXAMPLE:*\n—◉ _#logo 3d-deep-sea-metal Elmo_\n\n*[❗] PLEASE LIST THE TEXT WHERE THE LOGO WILL BE APPLIED:*\n—◉ _#logo (effect) (text1|text2)_\n*EXAMPLE:*\n—◉ _#logo Wolf-Logo-Galaxy Elmo|Bot_\n\n*<LIST OF EFFECTS/>*\n\n° 📝 #logo ",
             "texto2": [
                 "*[❗ℹ️] THE EFFECT",
                 "IS NOT IN THE LIST OF EFFECTS*"
@@ -2879,14 +2879,14 @@
         },
         "menu_menu": {
             "texto1": [
-                "𝐊𝐈𝐋𝐋𝐙𝐍",
+                "Elmo",
                 "▢ *Hello,*",
                 "_*< YOUR STATISTICS />*_",
                 "▢ *Level:* ",
                 "▢ *Experience:* ",
                 "▢ *Ranking:* ",
                 "▢ *Diamonds:* ",
-                "▢ *𝐊𝐈𝐋𝐋𝐙𝐍al Coins:* ",
+                "▢ *Elmoal Coins:* ",
                 "▢ *Tokens:* ",
                 "▢ *Premium:* ",
                 " _*< MENU LIST />*_",
@@ -3359,7 +3359,7 @@
                 "║┈┈┈┈┈┈┈┈┈┈┈┈┈",
                 "Diamonds* 💎",
                 "Tokens* 🪙",
-                "𝐊𝐈𝐋𝐋𝐙𝐍Coins* 👾",
+                "ElmoCoins* 👾",
                 "Exp* ⚡",
                 "╚═════════════════⬣"
             ]
@@ -3368,7 +3368,7 @@
             "texto1": "『🚓』THE POLICE CAUGHT YOU IN THE ACT, YOU'RE IN TROUBLE, YOU LOST :",
             "texto2": [
                 "💎 Diamonds",
-                "👾 𝐊𝐈𝐋𝐋𝐙𝐍 Coins"
+                "👾 Elmo Coins"
             ],
             "texto3": [
                 "《💰》You stole from",
@@ -3482,7 +3482,7 @@
                 "*—◉ Keep exploring and completing missions to reach new heights in the Guild of Adventurers. Keep interacting with the Bot!*"
             ]
         },
-        "rpg_minar_𝐊𝐈𝐋𝐋𝐙𝐍coins": {
+        "rpg_minar_Elmocoins": {
             "texto1": [
                 "What a pro 😎 you mined",
                 "🌟✨ Cool!! You receive",
@@ -3821,7 +3821,7 @@
             "texto11": [
                 "[ ⚠️ ] Warning",
                 "[ ⚠️ ] Warning",
-                "https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC"
+                "https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT"
             ]
         },
         "participantsUpdate": {
